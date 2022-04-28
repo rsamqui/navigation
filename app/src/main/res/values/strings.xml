@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="este_es_el_login_fragment">Este es el login fragment</string>
+    <string name="action">Action</string>
+    <string name="este_es_el_home_fragment">Este es el home fragment</string>
+    <string name="registrar">Registrar</string>
+    <string name="preferencias">Preferencias</string>
+</resources>
